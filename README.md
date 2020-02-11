@@ -1,1 +1,1 @@
-# myPsdDesigns
+# my trainning PsdDesigns
